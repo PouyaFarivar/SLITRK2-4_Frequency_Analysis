@@ -1,5 +1,7 @@
 ## Overview
 
+The notebooks are developed to analyze the difference in frequency behavior between SLITRK2&4, knock-out, and control mice. We extract certain frequency behaviors for both mouse types mainly gamma and theta behavior.
+
 You can use both notebooks to analyze any .edf data files as long as they follow the rules mentioned for each notebook.
 
 ### Sizure_Data_Analysis Notebook
